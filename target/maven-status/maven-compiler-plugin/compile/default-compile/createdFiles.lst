@@ -1,0 +1,5 @@
+com\example\springaipoc\OpenAIConfiguration.class
+com\example\springaipoc\SpringaipocApplication.class
+com\example\springaipoc\SkillExtractionService.class
+com\example\springaipoc\SkillExtractionPrompt.class
+com\example\springaipoc\SkillExtractionController.class
